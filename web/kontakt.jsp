@@ -12,5 +12,8 @@
             <a href ="kontakt.jsp">Kontakt</a>
             <a href ="galerija.jsp">Galerija</a>
             <a href ="prikaz.jsp"> Prikaz modela</a>
+            
+            <h1>Ovo je nas broj: 0645619383 </h1>
+            
     </body>
 </html>
